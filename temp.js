@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        hello world
 // @namespace    http://mfds.cn/
-// @version      0.1
+// @version      0.2
 // @description  new script
 // @author       WH
 // @match        *://*
